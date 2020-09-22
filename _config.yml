@@ -1,4 +1,8 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 
+author:
+  first: Sakthi
+  last: Vel
+
 permalink: /blog/:year/:month/:day/:title
