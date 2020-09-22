@@ -6,11 +6,38 @@ author:
   last: Vel
 
 links:
-  email:
-    personal: jatsakthi@gmail.com
-    open-source: sakthi@apache.org
-  twitter: https://twitter.com/JatSakthi
-  linkedin: https://www.linkedin.com/in/jatsakthi/
-  github: https://github.com/jatsakthi
+  - name: GitHub
+    url: https://github.com/jatsakthi
+    icon: https://unpkg.com/simple-icons@latest/icons/github.svg
+  - name: Facebook
+    url: https://www.facebook.com/jat.sakthi/
+    icon: https://upload.wikimedia.org/wikipedia/commons/f/ff/Facebook_logo_36x36.svg
+  - name: Twitter
+    url: https://twitter.com/JatSakthi
+    icon: assets/img/twitter.svg
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/jatsakthi/
+    icon: https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg
+  - name: Instagram
+    url: https://www.instagram.com/jatsakthi/?hl=en
+    icon: https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg
+  - name: StackOverflow
+    url: https://stackoverflow.com/users/8067985/sakthi
+    icon: https://cdn.sstatic.net/Sites/stackoverflow/company/Img/logos/so/so-icon.svg?v=f13ebeedfa9e
+  - name: Flickr
+    url: https://www.flickr.com/photos/jatsakthi/
+    icon: https://upload.wikimedia.org/wikipedia/commons/4/44/Flickr.svg
+  - name: Resume (pdf)
+    id: resume
+    type: download
+    url: assets/pdf/resume.pdf
+    icon: assets/img/resume.svg
+  - name: Gmail
+    url: mailto:jatsakthi@gmail.com
+    icon: https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg
+  - open-source:
+    url: mailto:sakthi@apache.org
+    icon: https://www.apache.org/foundation/press/kit/feather.svg
+    name: Apache
 
 permalink: /blog/:year/:month/:day/:title

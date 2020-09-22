@@ -11,5 +11,10 @@ title: Sakthi
 	<div class="flex-child green">
 		<h1>{{ site.author.first }}</h1>
 		<p>Yet another Software Engineer from the <em>Bay Area</em>.</p>
+		<ul class="social-media-list">
+			{% for link in site.links %}
+			<li><a href="{{link.url}}"><img src="{{link.icon}}" alt="{{link.name}}" title="{{link.name}}"></a></li>
+			{% endfor %}
+		</ul>
 	</div>
 </div>
