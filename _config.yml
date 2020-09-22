@@ -5,4 +5,12 @@ author:
   first: Sakthi
   last: Vel
 
+links:
+  email:
+    personal: jatsakthi@gmail.com
+    open-source: sakthi@apache.org
+  twitter: https://twitter.com/JatSakthi
+  linkedin: https://www.linkedin.com/in/jatsakthi/
+  github: https://github.com/jatsakthi
+
 permalink: /blog/:year/:month/:day/:title

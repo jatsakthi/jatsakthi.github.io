@@ -2,7 +2,14 @@
 layout: default
 title: Sakthi
 ---
-<div class="blurb">
-	<h1>Hi there, I'm {{ site.author.first }} !</h1>
-	<p>Yet another Software Engineer from the <em>Bay Area</em>. <a href="/about">More about me...</a></p>
-</div><!-- /.blurb -->
+<div class="flex-container">
+
+	<div class="flex-child magenta">
+		<img src="{{site.baseurl}}/assets/img/profile_pic.jpg">
+	</div>
+
+	<div class="flex-child green">
+		<h1>{{ site.author.first }}</h1>
+		<p>Yet another Software Engineer from the <em>Bay Area</em>.</p>
+	</div>
+</div>
