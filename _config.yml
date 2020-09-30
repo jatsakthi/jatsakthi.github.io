@@ -27,11 +27,6 @@ links:
   - name: Flickr
     url: https://www.flickr.com/photos/jatsakthi/
     icon: https://upload.wikimedia.org/wikipedia/commons/4/44/Flickr.svg
-  - name: Resume (pdf)
-    id: resume
-    type: download
-    url: assets/pdf/resume.pdf
-    icon: assets/img/resume.svg
   - name: Gmail
     url: mailto:jatsakthi@gmail.com
     icon: https://upload.wikimedia.org/wikipedia/commons/4/45/New_Logo_Gmail.svg
