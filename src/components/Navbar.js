@@ -60,22 +60,22 @@ const menuItems = [
   {
     listIcon: <Home />,
     listText: "Home",
-    listPath: "/personal-website-react/",
+    listPath: "/",
   },
   {
     listIcon: <AssignmentInd />,
     listText: "Resume",
-    listPath: "/personal-website-react/resume",
+    listPath: "/resume",
   },
   {
     listIcon: <Apps />,
     listText: "Portfolio",
-    listPath: "/personal-website-react/portfolio",
+    listPath: "/portfolio",
   },
   {
     listIcon: <ContactMail />,
     listText: "Contact Me",
-    listPath: "/personal-website-react/contact",
+    listPath: "/contact",
   },
 ];
 const Navbar = () => {
